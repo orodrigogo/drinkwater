@@ -22,6 +22,8 @@ export const styles = StyleSheet.create({
     top: 43
   },
   footer: {
+    width: 120,
+    height: 120,
     position: 'absolute',
     bottom: 35,
   },
